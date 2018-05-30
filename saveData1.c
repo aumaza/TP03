@@ -4,12 +4,12 @@
 
 #define TAM 2
 
-void saveData (EMovie movie[], int cant)
+void saveData1 (EMovie movie[], int cant)
 {
 
     FILE *save;
 
-    save = fopen("cargaPeliculas.txt","w");
+    save = fopen("listaPeliculas.txt","w");
     fwrite(&movie,sizeof(EMovie),cant,save);
     fclose(save);
 

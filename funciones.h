@@ -30,6 +30,7 @@ void modificarDato(EMovie movie[],int cant);
 int busquedaxID(EMovie movie[], int id);
 int respuesta();
 void saveData (EMovie movie[], int cant);
+void saveData1 (EMovie movie[], int cant);
 
 
 

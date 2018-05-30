@@ -30,6 +30,8 @@ void mostrarPeliculas (EMovie movie[], int cant)
         printf("\n%i.PUNTAJE: %d", i+1, movie[i].puntaje);
         printf("\n=============================================\n");
         }
+
+        saveData1 (movie,TAM);
     }
 getchar();
 system("clear");
