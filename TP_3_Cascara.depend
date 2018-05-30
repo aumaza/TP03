@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1527511830 source:c:\test\test1\augusto_maza\tp_3_cascara\buscaidlibre.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1527624042 .h"
+
+1527515790 c:\test\test1\augusto_maza\tp_3_cascara\funciones.h
+
+1527519428 source:c:\test\test1\augusto_maza\tp_3_cascara\initreg.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1527519513 source:c:\test\test1\augusto_maza\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1527519428 source:c:\test\test1\augusto_maza\tp_3_cascara\agragarpelicula.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1527519427 source:c:\test\test1\augusto_maza\tp_3_cascara\mostrarpeliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1527624148 source:c:\users\aumaza_mecon\documents\test\para prueba\tp03-master\agragarpelicula.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1527624515 c:\users\aumaza_mecon\documents\test\para prueba\tp03-master\funciones.h
+
+1527505288 source:c:\users\aumaza_mecon\documents\test\para prueba\tp03-master\buscaidlibre.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1527505288 source:c:\users\aumaza_mecon\documents\test\para prueba\tp03-master\initreg.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1527623906 source:c:\users\aumaza_mecon\documents\test\para prueba\tp03-master\mostrarpeliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1527624042 source:c:\users\aumaza_mecon\documents\test\para prueba\tp03-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1527505288 source:/home/augusto/Proyectos/testeo/TP03-master/buscaIdLibre.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1527641917 /home/augusto/Proyectos/testeo/TP03-master/funciones.h
+
+1527637512 source:/home/augusto/Proyectos/testeo/TP03-master/initReg.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1527640448 source:/home/augusto/Proyectos/testeo/TP03-master/main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1527638285 source:/home/augusto/Proyectos/testeo/TP03-master/mostrarPeliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1527641965 source:/home/augusto/Proyectos/testeo/TP03-master/agragarPelicula.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1527637023 source:/home/augusto/Proyectos/testeo/TP03-master/borrarRegistro.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1527636404 source:/home/augusto/Proyectos/testeo/TP03-master/pideDato.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1527638176 source:/home/augusto/Proyectos/testeo/TP03-master/buscaId.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1527639585 source:/home/augusto/Proyectos/testeo/TP03-master/modificarDato.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1527639549 source:/home/augusto/Proyectos/testeo/TP03-master/busquedaxID.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1527640027 source:/home/augusto/Proyectos/testeo/TP03-master/respuesta.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
